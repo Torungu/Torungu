@@ -1,20 +1,22 @@
 # Konichiwa , I'm Tran Thien Trung! 👋
 
-<img src="./img/PomPom1.png" style="margin:0 30%" align="center" width="30%" height="30%">
+<p align="center">
+<img src="./img/PomPom1.png" width="30%" height="30%">
+</p>
 
 ## - About Me 💬 :
 
 I'm a passionate front-end developer from VietNam.
-</br>
+<br>
 
 ### - Hobbies 🎨 :
 
-<div style="display: flex; justify-content: space-between;">
-<div style="display: flex; flex-direction: column">
-- ✨ Learning new things
-- ✨ Gaming
-- ✨ Watching Anime
-- ✨ Reading Light Novels, Manga
+<div style="display: flex;">
+<div>
+- ✨ Learning new things <br>
+- ✨ Gaming <br>
+- ✨ Watching Anime <br>
+- ✨ Reading Light Novels, Manga <br>
 </div>
 
 <div>
@@ -22,7 +24,7 @@ I'm a passionate front-end developer from VietNam.
 </div>
 </div>
 
-</br>
+<br>
 
 ### - Skills ( learning... ) 🛠️ :
 
@@ -48,27 +50,26 @@ I'm a passionate front-end developer from VietNam.
 
 ## - Contact Me :
 
-<div style="display: flex; justify-content: space-between;">
-  <div style="width:50%;" algin="left">
-<p align="left"> If you want to reach out to me and just to hangout <br> or want to game together just ping me 😉. </p>
-<a href="mailto:trungthientran2906@gmail.com">
- <img align="left" alt="Gmail" width="100" hight="100" src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/social/gmail.png" />
-</a>
-<a href="#">
+<div style="display:flex;">
+<div>
+  <p align="left"> If you want to reach out to me and just to hangout <br> or want to game together just ping me 😉.</p>
+  <a href="mailto:trungthientran2906@gmail.com">
+  <img align="left" alt="Gmail" width="100" hight="100" src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/social/gmail.png" />
+  </a>
+  <a href="#">
   <img align="left" alt="Linkedin" width="100" hight="100" src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/social/linkedin.png" />
-</a>
-<br>
-<br>
-<a href="https://www.reddit.com/user/TorunguKawaii/">
+  </a>
+  <br>
+  <br>
+  <a href="https://www.reddit.com/user/TorunguKawaii/">
   <img align="left" alt="Reddit" width="100" hight="100" src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/social/reddit.png" />
-</a>
-<a href="https://steamcommunity.com/profiles/76561198184118693/">
+  </a>
+  <a href="https://steamcommunity.com/profiles/76561198184118693/">
   <img align="left" alt="Steam" width="100" hight="100" src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/social/steam.png" />
-</a>
+  </a>
   </div>
-
-  <div style="width:40%;">
-<img src="./img/PomPom3.png" align="right" width="100%">
+  <div>
+    <img src="./img/PomPom3.png" width="100%">
   </div>
 
 </div>
