@@ -6,7 +6,7 @@
 
 ## - About Me 💬 :
 
-<img src="./img/PomPom2.png" alt="png2" width="40%" height="40%" align="right" >
+<img src="./img/PomPom2.png" alt="png2" width="35%" height="35%" align="right" >
 I'm a passionate front- end developer from VietNam <br>and I am always willing to learn from the people around me ! 
 <br>
 
@@ -43,7 +43,7 @@ I'm a passionate front- end developer from VietNam <br>and I am always willing t
 
 ## - Contact Me :
 
-<img src="./img/PomPom3.png" alt="png3" width="25%" height="25%" align="right">
+<img src="./img/PomPom3.png" alt="png3" width="20%" height="20%" align="right">
 <p align="left">
   <p align="left"> If you want to reach out to me and just to hangout <br> or want to game together just ping me 😉.</p>
   <a href="mailto:trungthientran2906@gmail.com">
