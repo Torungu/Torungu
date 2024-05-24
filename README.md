@@ -1,27 +1,24 @@
 # Konichiwa , I'm Tran Thien Trung! 👋
 
-<img src="./img/PomPom1.png" style="width:40%;height:40%;margin:0 30%" align="center">
+<img src="./img/PomPom1.png" style="margin:0 30%" align="center" width="30" height="30">
 
 ## - About Me 💬 :
 
 I'm a passionate front-end developer from VietNam.
 </br>
 
-<div style="display:flex;justify-content: space-between;">
-<div style="width:50%:flex:1">
-
 ### - Hobbies 🎨 :
 
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <div style="width:50%:">
 - ✨ Learning new things
 - ✨ Gaming
 - ✨ Watching Anime
 - ✨ Reading Light Novels, Manga
-
-</div>
-<!-- <div style="width:50%;flex:1">
-  <img src="./img/PomPom2.png" style="width:100%" align="right" >
-</div> -->
-![Image 1](./img/PomPom1.png) ![Image 2](./img/PomPom2.png) ![Image 3](./img/PomPom3.png)
+  </div>
+  <div style="width:50%;">
+<img src="./img/PomPom2.png" width="100" align="right" >
+  </div>
 </div>
 </br>
 
@@ -47,11 +44,10 @@ I'm a passionate front-end developer from VietNam.
 </p>
 </br>
 
-<div style="display:flex; justify-content:space-between;">
-<div style="width:50%;flex:1" algin="left">
-
 ## - Contact Me :
 
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <div style="width:50%;" algin="left">
 <p align="left"> If you want to reach out to me and just to hangout <br> or want to game together just ping me 😉. </p>
 <a href="mailto:trungthientran2906@gmail.com">
  <img align="left" alt="Gmail" width="100" hight="100" src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/social/gmail.png" />
@@ -67,13 +63,11 @@ I'm a passionate front-end developer from VietNam.
 <a href="https://steamcommunity.com/profiles/76561198184118693/">
   <img align="left" alt="Steam" width="100" hight="100" src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/social/steam.png" />
 </a>
-</div>
+  </div>
 
-<div style="width:40%;flex:1">
-
-<img src="./img/PomPom3.png" align="right" style="width:100%">
-
-</div>
+  <div style="width:40%;">
+<img src="./img/PomPom3.png" align="right" width="100">
+  </div>
 
 </div>
 
