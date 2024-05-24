@@ -1,17 +1,23 @@
 # Konichiwa , I'm Tran Thien Trung! 👋
 
+<img src="./img/PomPom1.png">
+
 ## - About Me 💬 :
+
 I'm a passionate front-end developer from VietNam.
 </br>
+<img src="./img/PomPom2.png">
 
-### - Hobbies 🎨 : 
+### - Hobbies 🎨 :
+
 - ✨ Learning new things
 - ✨ Gaming
 - ✨ Watching Anime
 - ✨ Reading Light Novels, Manga
-</br>
+  </br>
 
 ### - Skills ( learning... ) 🛠️ :
+
 <p align="center">
     </br>
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/languages/html.png" alt="HTML5" style="vertical-align:top; margin:6px 4px">
@@ -33,6 +39,9 @@ I'm a passionate front-end developer from VietNam.
 </br>
 
 ## - Contact Me :
+
+<img src="./img/PomPom3.png">
+
 <p align="left"> If you want to reach out to me and just to hangout <br> or want to game together just ping me 😉. </p>
 <a href="mailto:trungthientran2906@gmail.com">
  <img align="left" alt="Gmail" width="100" hight="100" src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/social/gmail.png" />
@@ -55,10 +64,11 @@ I'm a passionate front-end developer from VietNam.
 </br>
 
 ### - Stats 📊 :
+
 <p align="center" >  
   <a href="https://github.com/anuraghazra/github-readme-stats"> 
 <img  src="https://github-readme-stats.vercel.app/api?username=Torungu&&show_icons=true&theme=omni"/>
   </a>
   </p>
 
-*************
+---
