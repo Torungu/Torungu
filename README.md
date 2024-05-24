@@ -19,9 +19,9 @@ I'm a passionate front-end developer from VietNam.
 - ✨ Reading Light Novels, Manga <br>
 </div>
 
-<div>
-<img src="./img/PomPom2.png" width="50%">
-</div>
+<p>
+  <img src="./img/PomPom2.png" width="50%" height="50%">
+</p>
 </div>
 
 <br>
@@ -68,9 +68,9 @@ I'm a passionate front-end developer from VietNam.
   <img align="left" alt="Steam" width="100" hight="100" src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/social/steam.png" />
   </a>
   </div>
-  <div>
-    <img src="./img/PomPom3.png" width="100%">
-  </div>
+  <p>
+    <img src="./img/PomPom3.png" width="30%" height="30%">
+  </p>
 
 </div>
 
