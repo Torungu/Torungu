@@ -6,10 +6,9 @@
 
 ## - About Me 💬 :
 
-I'm a passionate front-end developer from VietNam.
+<img src="./img/PomPom2.png" alt="png2" width="50%" height="50%" align="right" >
+I'm a passionate front- end developer from VietNam <br>and I am always willing to learn from the people around me ! 
 <br>
-
-<img src="./img/PomPom2.png" alt="png2" width="30%" height="30%" align="right" >
 
 ### - Hobbies 🎨 :
 
