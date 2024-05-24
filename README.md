@@ -7,10 +7,10 @@
 ## ~ About Me 💬 :
 
 <img src="./img/PomPom2.png" alt="png2" width="35%" height="35%" align="right" >
-I'm a passionate front - end developer from VietNam <br>and I am always willing to learn from the people around me ! 
+Hello, I'm Tran Thien Trung <br>I'm a passionate front - end developer from VietNam <br>and I am always willing to learn from the people around!
 <br>
 
-### ~ Hobbies 🎨 :
+### - Hobbies 🎨 :
 
 - ✨ Learning new things <br>
 - ✨ Gaming <br>
@@ -20,7 +20,7 @@ I'm a passionate front - end developer from VietNam <br>and I am always willing 
 <br>
 <br>
 
-### ~ Skills ( learning... ) 🛠️ :
+### - Skills ( learning... ) 🛠️ :
 
 <p align="center">
     </br>
@@ -68,15 +68,12 @@ I'm a passionate front - end developer from VietNam <br>and I am always willing 
 <br>
 <br>
 
-### ~ Stats 📊 :
+### - Stats 📊 :
 
 <p align="center" >  
   <a href="https://github.com/anuraghazra/github-readme-stats"> 
   <img  src="https://github-readme-stats.vercel.app/api?username=Torungu&&show_icons=true&theme=omni"/>
   </a>
 </p>
-
-<br>
-<br>
 
 ## <h2 align="center">~ 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰! ~</h2>
