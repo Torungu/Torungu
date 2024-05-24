@@ -11,6 +11,7 @@ I'm a passionate front-end developer from VietNam.
 
 ### - Hobbies 🎨 :
 
+<div>
 <div style="display: inline-block; vertical-align: middle;">
   - ✨ Learning new things <br>
   - ✨ Gaming <br>
@@ -18,7 +19,8 @@ I'm a passionate front-end developer from VietNam.
   - ✨ Reading Light Novels, Manga <br>
 </div>
 <div style="display: inline-block; vertical-align: middle;">
-  <img src="./img/PomPom2.png" width="50%" height="50%">
+  <img src="./img/PomPom2.png" width="50%" height="50%" align="right">
+</div>
 </div>
 <br>
 
