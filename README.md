@@ -1,6 +1,6 @@
 # Konichiwa , I'm Tran Thien Trung! 👋
 
-<img src="./img/PomPom1.png" style="margin:0 30%" align="center" width="30" height="30">
+<img src="./img/PomPom1.png" style="margin:0 30%" align="center" width="30%" height="30%">
 
 ## - About Me 💬 :
 
@@ -9,17 +9,19 @@ I'm a passionate front-end developer from VietNam.
 
 ### - Hobbies 🎨 :
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <div style="width:50%:">
+<div style="display: flex; justify-content: space-between;">
+<div style="display: flex; flex-direction: column">
 - ✨ Learning new things
 - ✨ Gaming
 - ✨ Watching Anime
 - ✨ Reading Light Novels, Manga
-  </div>
-  <div style="width:50%;">
-<img src="./img/PomPom2.png" width="100" align="right" >
-  </div>
 </div>
+
+<div>
+<img src="./img/PomPom2.png" width="50%">
+</div>
+</div>
+
 </br>
 
 ### - Skills ( learning... ) 🛠️ :
@@ -46,7 +48,7 @@ I'm a passionate front-end developer from VietNam.
 
 ## - Contact Me :
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
+<div style="display: flex; justify-content: space-between;">
   <div style="width:50%;" algin="left">
 <p align="left"> If you want to reach out to me and just to hangout <br> or want to game together just ping me 😉. </p>
 <a href="mailto:trungthientran2906@gmail.com">
@@ -66,7 +68,7 @@ I'm a passionate front-end developer from VietNam.
   </div>
 
   <div style="width:40%;">
-<img src="./img/PomPom3.png" align="right" width="100">
+<img src="./img/PomPom3.png" align="right" width="100%">
   </div>
 
 </div>
