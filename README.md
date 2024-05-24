@@ -11,19 +11,17 @@ I'm a passionate front-end developer from VietNam.
 
 ### - Hobbies 🎨 :
 
-<div style="display: flex;">
-<p align="left">
-- ✨ Learning new things <br>
-- ✨ Gaming <br>
-- ✨ Watching Anime <br>
-- ✨ Reading Light Novels, Manga <br>
-</p>
-
-<p align="right">
-  <img src="./img/PomPom2.png" width="50%" height="50%">
-</p>
+<div style="display: flex; justify-content: space-between; align-items: center;">
+    <div>
+        - ✨ Learning new things <br>
+        - ✨ Gaming <br>
+        - ✨ Watching Anime <br>
+        - ✨ Reading Light Novels, Manga <br>
+    </div>
+    <div>
+        <img src="./img/PomPom2.png" width="50%" height="50%">
+    </div>
 </div>
-
 <br>
 
 ### - Skills ( learning... ) 🛠️ :
