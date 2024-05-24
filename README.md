@@ -11,11 +11,14 @@ I'm a passionate front-end developer from VietNam.
 
 ### - Hobbies 🎨 :
 
-<p align="right"><img src="./img/PomPom2.png" width="30%" height="30%" ></p>
+<p><img src="./img/PomPom2.png" width="30%" height="30%" align="right" >
+<p align="left">
 - ✨ Learning new things <br>
 - ✨ Gaming <br>
 - ✨ Watching Anime <br>
 - ✨ Reading Light Novels, Manga <br>
+</p>
+</p>
 
 <br>
 
