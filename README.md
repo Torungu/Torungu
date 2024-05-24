@@ -11,7 +11,7 @@ I'm a passionate front-end developer from VietNam.
 
 ### - Hobbies 🎨 :
 
-<img src="./img/PomPom2.png" width="30%" height="30%" align="right">
+<p align="right"><img src="./img/PomPom2.png" width="30%" height="30%" ></p>
 - ✨ Learning new things <br>
 - ✨ Gaming <br>
 - ✨ Watching Anime <br>
@@ -43,7 +43,7 @@ I'm a passionate front-end developer from VietNam.
 
 ## - Contact Me :
 
-<img src="./img/PomPom3.png" width="30%" height="30%" align="right">
+<p align="right"><img src="./img/PomPom3.png" width="30%" height="30%"></p>
 <p align="left">
   <p align="left"> If you want to reach out to me and just to hangout <br> or want to game together just ping me 😉.</p>
   <a href="mailto:trungthientran2906@gmail.com">
@@ -62,7 +62,7 @@ I'm a passionate front-end developer from VietNam.
   </a>
 </p>
 
-## - Stats 📊 :
+### - Stats 📊 :
 
 <p align="center" >  
   <a href="https://github.com/anuraghazra/github-readme-stats"> 
