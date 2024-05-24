@@ -18,11 +18,10 @@ I'm a passionate front-end developer from VietNam.
 - ✨ Reading Light Novels, Manga
 
 </div>
-<div style="width:50%;flex:1">
-
+<!-- <div style="width:50%;flex:1">
   <img src="./img/PomPom2.png" style="width:100%" align="right" >
-
-</div>
+</div> -->
+![Image 1](./img/PomPom1.png) ![Image 2](./img/PomPom2.png) ![Image 3](./img/PomPom3.png)
 </div>
 </br>
 
