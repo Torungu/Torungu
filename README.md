@@ -1,12 +1,12 @@
 # Konichiwa , I'm Tran Thien Trung! 👋
 
-<img src="./img/PomPom1.png">
+<img src="./img/PomPom1.png" align="center" style="max-width:30%">
 
 ## - About Me 💬 :
 
 I'm a passionate front-end developer from VietNam.
 </br>
-<img src="./img/PomPom2.png">
+<img src="./img/PomPom2.png" align="right" style="max-width:30%">
 
 ### - Hobbies 🎨 :
 
@@ -40,7 +40,7 @@ I'm a passionate front-end developer from VietNam.
 
 ## - Contact Me :
 
-<img src="./img/PomPom3.png">
+<img src="./img/PomPom3.png" align="right" style="max-width:30%">
 
 <p align="left"> If you want to reach out to me and just to hangout <br> or want to game together just ping me 😉. </p>
 <a href="mailto:trungthientran2906@gmail.com">
