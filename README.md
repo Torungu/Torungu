@@ -12,12 +12,12 @@ I'm a passionate front-end developer from VietNam.
 ### - Hobbies 🎨 :
 
 <div style="display: flex;">
-<div>
+<p>
 - ✨ Learning new things <br>
 - ✨ Gaming <br>
 - ✨ Watching Anime <br>
 - ✨ Reading Light Novels, Manga <br>
-</div>
+</p>
 
 <p>
   <img src="./img/PomPom2.png" width="50%" height="50%">
@@ -51,7 +51,7 @@ I'm a passionate front-end developer from VietNam.
 ## - Contact Me :
 
 <div style="display:flex;">
-<div>
+<p>
   <p align="left"> If you want to reach out to me and just to hangout <br> or want to game together just ping me 😉.</p>
   <a href="mailto:trungthientran2906@gmail.com">
   <img align="left" alt="Gmail" width="100" hight="100" src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/social/gmail.png" />
@@ -67,7 +67,7 @@ I'm a passionate front-end developer from VietNam.
   <a href="https://steamcommunity.com/profiles/76561198184118693/">
   <img align="left" alt="Steam" width="100" hight="100" src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/social/steam.png" />
   </a>
-  </div>
+  </p>
   <p>
     <img src="./img/PomPom3.png" width="30%" height="30%">
   </p>
