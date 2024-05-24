@@ -1,6 +1,6 @@
 # Konichiwa , I'm Tran Thien Trung! 👋
 
-# <img src="./img/PomPom1.png" style="width:50%;" align="center">
+<img src="./img/PomPom1.png" style="width:40%;height:40%;margin:0 30%" align="center">
 
 ## - About Me 💬 :
 
@@ -8,7 +8,7 @@ I'm a passionate front-end developer from VietNam.
 </br>
 
 <div style="display:flex;justify-content: space-between;">
-<div style="width:50%">
+<div style="width:50%:flex:1">
 
 ### - Hobbies 🎨 :
 
@@ -18,9 +18,9 @@ I'm a passionate front-end developer from VietNam.
 - ✨ Reading Light Novels, Manga
 
 </div>
-<div>
+<div style="width:50%;flex:1">
 
-### <img src="./img/PomPom2.png" style="width:50%" align="right" >
+  <img src="./img/PomPom2.png" style="width:100%" align="right" >
 
 </div>
 </div>
@@ -49,7 +49,7 @@ I'm a passionate front-end developer from VietNam.
 </br>
 
 <div style="display:flex; justify-content:space-between;">
-<div style="width:50%" algin="left">
+<div style="width:50%;flex:1" algin="left">
 
 ## - Contact Me :
 
@@ -70,9 +70,9 @@ I'm a passionate front-end developer from VietNam.
 </a>
 </div>
 
-<div style="width:40%">
+<div style="width:40%;flex:1">
 
-## <img src="./img/PomPom3.png" align="right" style="width:100%">
+<img src="./img/PomPom3.png" align="right" style="width:100%">
 
 </div>
 
