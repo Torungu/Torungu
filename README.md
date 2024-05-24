@@ -19,9 +19,10 @@ I'm a passionate front-end developer from VietNam.
   - ✨ Reading Light Novels, Manga <br>
 </div>
 <div style="display: inline-block; vertical-align: middle;">
-  <img src="./img/PomPom2.png" width="50%" height="50%" align="right">
+  <img src="./img/PomPom2.png" width="30%" height="30%" align="right">
 </div>
 </div>
+
 <br>
 
 ### - Skills ( learning... ) 🛠️ :
