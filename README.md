@@ -1,12 +1,14 @@
 # Konichiwa , I'm Tran Thien Trung! 👋
 
-<img src="./img/PomPom1.png" align="center" style="max-width:30%">
+## <img src="./img/PomPom1.png" style="width:50%;margin:0 25%">
 
 ## - About Me 💬 :
 
 I'm a passionate front-end developer from VietNam.
 </br>
-<img src="./img/PomPom2.png" align="right" style="max-width:30%">
+
+<div style="display:flex;justify-content: space-between;">
+<div style="width:50%">
 
 ### - Hobbies 🎨 :
 
@@ -14,7 +16,13 @@ I'm a passionate front-end developer from VietNam.
 - ✨ Gaming
 - ✨ Watching Anime
 - ✨ Reading Light Novels, Manga
-  </br>
+
+</div>
+<div>
+<img src="./img/PomPom2.png" style="width:50%" align="right" >
+</div>
+</div>
+</br>
 
 ### - Skills ( learning... ) 🛠️ :
 
@@ -38,9 +46,10 @@ I'm a passionate front-end developer from VietNam.
 </p>
 </br>
 
-## - Contact Me :
+<div style="display:flex;justify-content: space-between;">
+<div style="width:50%">
 
-<img src="./img/PomPom3.png" align="right" style="max-width:30%">
+## - Contact Me :
 
 <p align="left"> If you want to reach out to me and just to hangout <br> or want to game together just ping me 😉. </p>
 <a href="mailto:trungthientran2906@gmail.com">
@@ -49,26 +58,27 @@ I'm a passionate front-end developer from VietNam.
 <a href="#">
   <img align="left" alt="Linkedin" width="100" hight="100" src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/social/linkedin.png" />
 </a>
-
-</br>
-</br>
-
+<br>
+<br>
 <a href="https://www.reddit.com/user/TorunguKawaii/">
   <img align="left" alt="Reddit" width="100" hight="100" src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/social/reddit.png" />
 </a>
 <a href="https://steamcommunity.com/profiles/76561198184118693/">
   <img align="left" alt="Steam" width="100" hight="100" src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/social/steam.png" />
 </a>
+</div>
 
-</br>
-</br>
+<div style="width:40%">
+<img src="./img/PomPom3.png" align="right" style="width:100%">
+</div>
+</div>
 
-### - Stats 📊 :
+## - Stats 📊 :
 
 <p align="center" >  
   <a href="https://github.com/anuraghazra/github-readme-stats"> 
-<img  src="https://github-readme-stats.vercel.app/api?username=Torungu&&show_icons=true&theme=omni"/>
+  <img  src="https://github-readme-stats.vercel.app/api?username=Torungu&&show_icons=true&theme=omni"/>
   </a>
-  </p>
+</p>
 
 ---
