@@ -1,16 +1,16 @@
-# Konichiwa , I'm Tran Thien Trung! 👋
+<h1 align="center">~ 👋 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮 👋 ~ </h1>
 
 <p align="center">
 <img src="./img/PomPom1.png" width="30%" height="30%">
 </p>
 
-## - About Me 💬 :
+## ~ About Me 💬 :
 
 <img src="./img/PomPom2.png" alt="png2" width="35%" height="35%" align="right" >
-I'm a passionate front- end developer from VietNam <br>and I am always willing to learn from the people around me ! 
+I'm a passionate front - end developer from VietNam <br>and I am always willing to learn from the people around me ! 
 <br>
 
-### - Hobbies 🎨 :
+### ~ Hobbies 🎨 :
 
 - ✨ Learning new things <br>
 - ✨ Gaming <br>
@@ -18,8 +18,9 @@ I'm a passionate front- end developer from VietNam <br>and I am always willing t
 - ✨ Reading Light Novels, Manga <br>
 
 <br>
+<br>
 
-### - Skills ( learning... ) 🛠️ :
+### ~ Skills ( learning... ) 🛠️ :
 
 <p align="center">
     </br>
@@ -39,9 +40,11 @@ I'm a passionate front- end developer from VietNam <br>and I am always willing t
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/tools/visualstudio_code.png" alt="VISUAL_STUDIO_CODE" style="vertical-align:top; margin:6px 4px">
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/tools/powershell.png" alt="POWERSHELL" style="vertical-align:top; margin:6px 4px"> 
 </p>
-</br>
 
-## - Contact Me :
+<br>
+<br>
+
+## ~ Contact Me 📝 :
 
 <img src="./img/PomPom3.png" alt="png3" width="20%" height="20%" align="right">
 <p align="left">
@@ -61,9 +64,11 @@ I'm a passionate front- end developer from VietNam <br>and I am always willing t
   <img align="left" alt="Steam" width="100" hight="100" src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/social/steam.png" />
   </a>
 </p>
+
+<br>
 <br>
 
-### - Stats 📊 :
+### ~ Stats 📊 :
 
 <p align="center" >  
   <a href="https://github.com/anuraghazra/github-readme-stats"> 
@@ -71,4 +76,7 @@ I'm a passionate front- end developer from VietNam <br>and I am always willing t
   </a>
 </p>
 
----
+<br>
+<br>
+
+## <h2 align="center">~ 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰! ~</h2>
