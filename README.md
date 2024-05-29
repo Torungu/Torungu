@@ -75,5 +75,6 @@ Hello, I'm Tran Thien Trung <br>I'm a passionate front - end developer from Viet
   <img  src="https://github-readme-stats.vercel.app/api?username=Torungu&&show_icons=true&theme=omni"/>
   </a>
 </p>
+<br>
 
-## <h2 align="center">~ 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰! ~</h2>
+#### <h1 align="center">~ 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰! ~</h1>
