@@ -1,6 +1,6 @@
 <link
     rel="stylesheet"
-    href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"
+    href="https://github.com/animate-css/animate.css/blob/main/animate.min.css"
   />
 <h1 align="center" class="animate__animated animate__tada animate__infinite animate__slower">~ 👋 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮 👋 ~ </h1>
  
