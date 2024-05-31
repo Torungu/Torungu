@@ -70,7 +70,7 @@ Hello, I'm Tran Thien Trung <br>I'm a passionate front - end developer from Viet
 
 ### - Stats 📊 :
 
-<p align="center" >  
+<p> 
   <a href="https://github.com/anuraghazra/github-readme-stats" align="left"> 
    <img  src="https://github-readme-stats.vercel.app/api?username=Torungu&&show_icons=true&theme=omni"/>
   </a>
