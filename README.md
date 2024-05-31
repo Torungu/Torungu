@@ -1,7 +1,7 @@
 <h1 align="center">~ 👋 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮 👋 ~ </h1>
  
 <p align="center">
-<img src="./img/PomPom1.png" width="30%" height="30%">
+<img src="./img/5cmpersec.gif" width="100%" height="30%">
 </p>
 
 ## ~ About Me 💬 :
@@ -79,3 +79,5 @@ Hello, I'm Tran Thien Trung <br>I'm a passionate front - end developer from Viet
 <br>
 
 #### <h1 align="center">~ 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰! ~</h1>
+
+<img src="./img/5cmpersec2.webp" width="100%" height="30%">
