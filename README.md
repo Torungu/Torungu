@@ -74,7 +74,7 @@ Hello, I'm Tran Thien Trung <br>I'm a passionate front - end developer from Viet
 <img src="https://streak-stats.demolab.com?user=Torungu&theme=calm-pink&border_radius=5&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=300&card_height=200&type=png" alt="GitHub Streak" align="right"/>
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats"> 
-<img  src="https://github-readme-stats.vercel.app/api?username=Torungu&&show_icons=true&theme=omni" width=300 height=200 />
+<img  src="https://github-readme-stats.vercel.app/api?username=Torungu&&show_icons=true&theme=omni" width=350 height=200 />
 </a>
 <br>
 
