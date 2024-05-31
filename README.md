@@ -70,14 +70,13 @@ Hello, I'm Tran Thien Trung <br>I'm a passionate front - end developer from Viet
 
 ### - Stats 📊 :
 
-<p> 
-  <a href="https://github.com/anuraghazra/github-readme-stats" align="left"> 
-   <img  src="https://github-readme-stats.vercel.app/api?username=Torungu&&show_icons=true&theme=omni"/>
-  </a>
-  <a href="https://git.io/streak-stats" align="right">
-   <img src="https://streak-stats.demolab.com?user=Torungu&theme=calm-pink&border_radius=5&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=450&card_height=194&type=png" alt="GitHub Streak" />
-  </a>
-</p>
+<a href="https://github.com/anuraghazra/github-readme-stats" align="right"> 
+<img  src="https://github-readme-stats.vercel.app/api?username=Torungu&&show_icons=true&theme=omni"/>
+</a>
+<a href="https://git.io/streak-stats">
+<img src="https://streak-stats.demolab.com?user=Torungu&theme=calm-pink&border_radius=5&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=450&card_height=194&type=png" alt="GitHub Streak" />
+</a>
+
 <br>
 
 #### <h1 align="center">~ 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰! ~</h1>
