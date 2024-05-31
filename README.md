@@ -1,16 +1,12 @@
-<link
-    rel="stylesheet"
-    href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"
-  />
-<h1 align="center" class="animate__animated animate__tada animate__infinite animate__slower">~ 👋 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮 👋 ~ </h1>
+<h1 align="center">~ 👋 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮 👋 ~ </h1>
  
 <p align="center">
-<img src="./img/PomPom1.png" width="30%" height="30%" class="animate__animated animate__backInLeft" >
+<img src="./img/PomPom1.png" width="30%" height="30%">
 </p>
 
 ## ~ About Me 💬 :
 
-<img src="./img/PomPom2.png" alt="png2" width="35%" height="35%" align="right" class="animate__animated animate__fadeIn animate__delay-1s">
+<img src="./img/PomPom2.png" alt="png2" width="35%" height="35%" align="right">
 Hello, I'm Tran Thien Trung <br>I'm a passionate front - end developer from VietNam <br>and I am always willing to learn from the people around!
 <br>
 
@@ -50,7 +46,7 @@ Hello, I'm Tran Thien Trung <br>I'm a passionate front - end developer from Viet
 
 ## ~ Contact Me 📝 :
 
-<img src="./img/PomPom3.png" alt="png3" width="20%" height="20%" align="right" class="animate__animated animate__rotateInDownRight animate__delay-2s">
+<img src="./img/PomPom3.png" alt="png3" width="20%" height="20%" align="right">
 <p align="left">
   <p align="left"> If you want to reach out to me and just to hangout <br> or want to game together just ping me 😉.</p>
   <a href="mailto:trungthientran2906@gmail.com">
@@ -81,4 +77,4 @@ Hello, I'm Tran Thien Trung <br>I'm a passionate front - end developer from Viet
 </p>
 <br>
 
-#### <h1 align="center" class="animate__animated animate__pulse animate__infinite animate__slower">~ 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰! ~</h1>
+#### <h1 align="center">~ 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰! ~</h1>
