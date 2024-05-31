@@ -2,7 +2,9 @@
  
 <p align="center">
 <img src="./img/PomPom1.png" width="30%" height="30%">
+
 </p>
+![5cmpersec](https://github.com/Torungu/Torungu/assets/111146065/69e540ec-1fee-45b2-9760-3c1780248c1f)
 
 ## ~ About Me 💬 :
 
