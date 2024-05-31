@@ -81,4 +81,4 @@ Hello, I'm Tran Thien Trung <br>I'm a passionate front - end developer from Viet
 </p>
 <br>
 
-#### <h1 align="center">~ 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰! ~</h1>
+#### <h1 align="center" class="animate__animated animate__pulse animate__infinite animate__slower">~ 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰! ~</h1>
